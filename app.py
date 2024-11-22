@@ -1,6 +1,5 @@
 import streamlit as st
 import requests
-import streamlit as st
 from geopy.geocoders import Nominatim
 
 def get_coordinates(address):
